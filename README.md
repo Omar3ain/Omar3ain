@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar Medhat Abdelfattah</h1>
 <h3 align="center">A passionate MEAN stack developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Node.js and JWT authentication**
+- 🌱 I’m currently learning **Golang language**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1tJ1wEeokdPYGxjin3aZckrqwpPrYWZcA/view?usp=sharing](https://drive.google.com/file/d/1tJ1wEeokdPYGxjin3aZckrqwpPrYWZcA/view?usp=sharing)
+- 👨‍💻 Some of my projects are available at [https://drive.google.com/file/d/1tJ1wEeokdPYGxjin3aZckrqwpPrYWZcA/view?usp=sharing](https://drive.google.com/file/d/1tJ1wEeokdPYGxjin3aZckrqwpPrYWZcA/view?usp=sharing)
 
 - 📫 How to reach me **omar3ain@gmail.com**
 
